@@ -1,4 +1,4 @@
-res://player.tscn
-res://characters/happy_boo/happy_boo.tscn
+res://Mob.gd
+res://mob.tscn
 res://survivor_game.tscn
-res://pine_tree.tscn
+res://player.tscn
