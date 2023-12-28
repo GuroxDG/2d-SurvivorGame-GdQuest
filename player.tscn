@@ -19,3 +19,4 @@ shape = SubResource("CircleShape2D_ym2k3")
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="Gun" parent="." instance=ExtResource("3_voc4f")]
+position = Vector2(0, -21)
