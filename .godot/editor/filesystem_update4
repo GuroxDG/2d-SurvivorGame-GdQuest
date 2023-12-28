@@ -1,4 +1,5 @@
-res://Mob.gd
-res://mob.tscn
-res://survivor_game.tscn
+res://gun.tscn
 res://player.tscn
+res://gun.gd
+res://survivor_game.tscn
+res://mob.tscn
