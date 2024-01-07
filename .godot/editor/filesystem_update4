@@ -1,9 +1,5 @@
 res://survivor_game.tscn
 res://mob.tscn
-res://player.tscn
-res://gun.tscn
-res://bullet.tscn
-res://bullet.gd
-res://gun.gd
 res://Mob.gd
-res://characters/slime/slime.gd
+res://bullet.gd
+res://README.md
