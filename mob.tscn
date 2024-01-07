@@ -12,6 +12,7 @@ collision_mask = 3
 script = ExtResource("1_ylr0p")
 
 [node name="Slime" parent="." instance=ExtResource("2_tqo2v")]
+unique_name_in_owner = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -29)

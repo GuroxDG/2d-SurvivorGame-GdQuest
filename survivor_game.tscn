@@ -15,7 +15,7 @@ offset_right = 1910.0
 offset_bottom = 1092.0
 
 [node name="Player" parent="." instance=ExtResource("1_77ovt")]
-position = Vector2(1172, 491)
+position = Vector2(1023, 535)
 
 [node name="Trees" type="Node2D" parent="."]
 y_sort_enabled = true
